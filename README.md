@@ -1,4 +1,4 @@
-# Visualizador de imagens 👀
+# Visualizador de imagens 👁
 
 ## Sobre o projeto 
 - Testando troca de telas com imagens;
